@@ -11,7 +11,7 @@ using System.Threading;
 using System.Windows.Forms;
 using Microsoft.WindowsAPICodePack.Dialogs;
 
-namespace SyncFileDate
+namespace MaFa.Winforms.SyncFileDate
 {
     public partial class frmMain : Form
     {

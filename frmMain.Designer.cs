@@ -1,4 +1,4 @@
-﻿namespace SyncFileDate
+﻿namespace MaFa.Winforms.SyncFileDate
 {
     partial class frmMain
     {
